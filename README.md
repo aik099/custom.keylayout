@@ -19,5 +19,3 @@ Mac OS X has supported `.keylayout` files since version 10.2 (Jaguar).
 ## Credits
 
 Created using [Ukelele.app](http://scripts.sil.org/ukelele).
-
-_– [AiK](http://www.alex-time.com/)_
