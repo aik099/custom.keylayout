@@ -5,6 +5,7 @@ This repository contains customized "Russian - Phonetic" keyboard layout in `.ke
 Here are some example of input transformations that are made (entered symbols -> displayed symbols):
 * "zh" -> "ж"
 * "sh" -> "ш"
+* "sx" -> "щ"
 * "ch" -> "ч"
 * etc.
 
