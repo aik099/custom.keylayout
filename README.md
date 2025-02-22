@@ -9,7 +9,7 @@ Here are some example of input transformations that are made (entered symbols ->
 * "ch" -> "ч"
 * etc.
 
-Use the [Ukelele.app](http://scripts.sil.org/ukelele) app to modify the provided keyboard layout to suite your needs.
+Use the [Ukelele.app](https://software.sil.org/ukelele/) app to modify the provided keyboard layout to suite your needs.
 
 ## How to install a new keyboard layout
 
@@ -31,4 +31,4 @@ Mac OS X has supported `.keylayout` files since version 10.2 (Jaguar).
 
 ## Credits
 
-Created using [Ukelele.app](http://scripts.sil.org/ukelele).
+Created using [Ukelele.app](https://software.sil.org/ukelele/).
